@@ -1,0 +1,48 @@
+..========final-game=======
+Frame 1 score is 0 (Open) [0,0]
+Frame 2 score is 3 (Open) [1,2]
+Frame 3 score is 9 (Open) [5,4]
+Frame 4 score is 4 (Open) [3,1]
+Frame 5 score is 20 (Strike) [10]
+Frame 6 score is 10 (Spare) [9,1]
+Frame 7 score is 4 (Open) [0,4]
+Frame 8 score is 7 (Open) [6,1]
+Frame 9 score is 15 (Spare) [4,6]
+Frame 10 score is 6 (Open) [5,1]
+Final Game Score is 78
+.========final-game=======
+Frame 1 score is 19 (Spare) [9,1]
+Frame 2 score is 19 (Spare) [9,1]
+Frame 3 score is 19 (Spare) [9,1]
+Frame 4 score is 19 (Spare) [9,1]
+Frame 5 score is 19 (Spare) [9,1]
+Frame 6 score is 19 (Spare) [9,1]
+Frame 7 score is 19 (Spare) [9,1]
+Frame 8 score is 19 (Spare) [9,1]
+Frame 9 score is 19 (Spare) [9,1]
+Frame 10 score is 20 (Spare) [9,1,10]
+Final Game Score is 191
+.========final-game=======
+Frame 1 score is 30 (Strike) [10]
+Frame 2 score is 30 (Strike) [10]
+Frame 3 score is 30 (Strike) [10]
+Frame 4 score is 30 (Strike) [10]
+Frame 5 score is 30 (Strike) [10]
+Frame 6 score is 30 (Strike) [10]
+Frame 7 score is 30 (Strike) [10]
+Frame 8 score is 30 (Strike) [10]
+Frame 9 score is 30 (Strike) [10]
+Frame 10 score is 30 (Strike) [10,10,10]
+Final Game Score is 300
+.========final-game=======
+Frame 1 score is 30 (Strike) [10]
+Frame 2 score is 30 (Strike) [10]
+Frame 3 score is 30 (Strike) [10]
+Frame 4 score is 30 (Strike) [10]
+Frame 5 score is 30 (Strike) [10,10,10]
+Final Game Score is 150
+.
+----------------------------------------------------------------------
+Ran 6 tests in 0.003s
+
+OK
